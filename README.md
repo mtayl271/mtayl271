@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtayl271
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and ECL
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> email: mtayl354@gmail.com
 
